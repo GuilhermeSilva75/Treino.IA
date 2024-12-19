@@ -1,6 +1,6 @@
 import { Text, View, StyleSheet, SafeAreaView, ScrollView, TouchableOpacity } from "react-native";
-import Header from "../../Components/Header";
-import Input from "../../Components/Input";
+import Header from "../../components/Header";
+import Input from "../../components/Input";
 import { z } from 'zod'
 import { useForm } from 'react-hook-form'
 import { zodResolver } from '@hookform/resolvers/zod'

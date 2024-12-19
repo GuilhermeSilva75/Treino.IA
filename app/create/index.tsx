@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet, SafeAreaView, ScrollView, TouchableOpacity } from "react-native";
-import Header from "../../Components/Header";
+import Header from "../../components/Header";
 import { router } from "expo-router";
 
 import { z } from 'zod'
