@@ -8,7 +8,7 @@ import { zodResolver } from '@hookform/resolvers/zod'
 import { useDataStore } from "@/store/data";
 
 
-import Select from "../../Components/Input/select";
+import Select from "../../components/Input/select";
 
 
 const schema = z.object({
