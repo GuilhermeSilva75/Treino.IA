@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
+# Treino IA 📷
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<div align="center" >
+<img height="400" alt="Gif" src="https://github.com/user-attachments/assets/187ebb63-aaae-4800-a0fb-93719b8d9afa"/>
+</div>
 
-## Get started
+# Treino IA
 
-1. Install dependencies
+Treino Ia é uma aplicação desenvolvida para criar uma ficha de treino personalizada de acordo com as características do usuário usando a inteligência artificial do Google
 
-   ```bash
-   npm install
-   ```
+## Tecnologias 🔨
 
-2. Start the app
+✔️ React Native
 
-   ```bash
-    npx expo start
-   ```
+✔️ TypeScript
 
-In the output, you'll find options to open the app in a
+✔️ Gemini Ai (inteligência artificial)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+✔️ NodeJs
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+✔️ Schema Validation
 
-## Get a fresh project
+## Instalação
 
-When you're ready, run:
+Abra o cmd e clone o backend com :
 
-```bash
-npm run reset-project
-```
+````cmd
+https://github.com/GuilhermeSilva75/Backend-treino.git
+````
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Entre na pasta do backend e instale as dependências:
 
-## Learn more
+````cmd
+yarn
+````
 
-To learn more about developing your project with Expo, look at the following resources:
+Clone o projeto com :
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+````cmd
+https://github.com/GuilhermeSilva75/Treino.IA.git
+````
 
-## Join the community
+Instale as dependências do projeto 
 
-Join our community of developers creating universal apps.
+````cmd
+yarn
+````
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Inicie o projeto com: 
+
+````cmd
+npx expo start
+````
+
+## Imagens
+
+<div align="start">
+<img src="https://github.com/user-attachments/assets/12f7dac9-1f72-498a-875f-519c6bf681ae" height="400">
+<img src="https://github.com/user-attachments/assets/18462757-e98a-4ffd-a818-c2da5834f859" height="400">
+<img src="https://github.com/user-attachments/assets/784610f9-6770-4e15-b2e8-16db1ff66237" height="400">
+<img src="https://github.com/user-attachments/assets/f80bed57-fa1c-4bbe-998d-0da589b92c2a" height="400">
+
+<div>
