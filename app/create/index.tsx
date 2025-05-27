@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet, SafeAreaView, ScrollView, TouchableOpacity } from "react-native";
-import Header from "../../components/Header";
+import Header from "../../Components/Header";
 import { router } from "expo-router";
 
 import { z } from 'zod'
@@ -8,7 +8,7 @@ import { zodResolver } from '@hookform/resolvers/zod'
 import { useDataStore } from "@/store/data";
 
 
-import Select from "../../components/Input/select";
+import Select from "../../Components/Input/select";
 
 
 const schema = z.object({
